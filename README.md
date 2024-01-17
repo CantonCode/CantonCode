@@ -9,9 +9,7 @@
     <a href="https://www.linkedin.com/in/ccanton/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href='https://github.com/CantonCode/Portfolio23' target="_blank">
-      <img alt='PowerShell' src='https://img.shields.io/badge/My_Portfolio-100000?style=for-the-badge&logo=PowerShell&logoColor=white&labelColor=000000&color=D5D1DA'/>
-    </a>
+    <a href='https://cantoncode.github.io/Portfolio23/' target="_blank"><img alt='PowerShell' src='https://img.shields.io/badge/My_Portfolio-100000?style=for-the-badge&logo=PowerShell&logoColor=white&labelColor=000000&color=D5D1DA'/></a>
   </div>
 </div>
 
